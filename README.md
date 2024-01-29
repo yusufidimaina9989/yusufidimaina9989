@@ -6,9 +6,9 @@ FullStack Bsv Blockchain Developer (sCrypt)
 
 * 🌍  I'm based in Abuja
 * ✉️  You can contact me at [yusufedresmaina@gmail.com](mailto:yusufedresmaina@gmail.com)
-* 🚀  I'm currently working on [Blockchain Based Fake Product Identification System](http:////////)
+* 🚀  I'm currently working on [Blockchain Based Real Estate Management System](http:////////)
 * 🧠  I'm learning sCrypt
-* 🤝  I'm open to collaborating on Smart Contracts
+* 🤝  I'm open to collaborating on building dApps & writting Smart Contracts on Bsv and other UTXO based blockchains
 
 ### Skills
 
